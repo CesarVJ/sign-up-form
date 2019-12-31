@@ -1,0 +1,36 @@
+body {
+    background-color: hsl(0, 100%, 74%);
+    background-image: url('../images/bg-intro-desktop.png');
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    font-weight: 900;
+}
+
+.text-description {
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    margin: 0;
+}
+
+.information-content {
+    padding: 15% 7%;
+}
+
+span {
+    font-weight: 900;
+}
+
+.form-header {
+    background-color: hsl(248, 32%, 49%);
+    border-radius: 12px;
+    padding: 1rem 5%;
+    text-align: center;
+}
+
+.form-container {
+    padding: 10% 10% 10% 5%;
+}
